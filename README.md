@@ -1,7 +1,5 @@
-# Work
+# Work make 2023-02-16
 repository Work folder make
-
-2023-02-16 make folder
 
 Dear Diary,
 
